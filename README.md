@@ -169,12 +169,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please reach out to:
 - **Rami Hanna**: [LinkedIn](https://www.linkedin.com/in/ramihanna17) | [GitHub](https://github.com/RamiHann)
 - **Laith Khater**: [Contact Info]
-
-```
-
-### Instructions:
-1. Replace placeholders like `your-username` and `link-to-image` with actual values.
-2. Add or remove sections as needed for your project.
-3. If you don't have screenshots yet, you can generate them and upload them later to GitHub.
-
-Feel free to adjust the API documentation, installation steps, or other sections to suit your project requirements!
