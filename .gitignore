@@ -1,0 +1,61 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# MySQL related
+*.sql
+*.db
+*.sql.gz
+mysql-data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Cache
+.cache/
+*.tmp
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# React-specific files (if applicable)
+build/
+public/static/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Uploads (if using multer or similar)
+uploads/
+
+# Miscellaneous
+*.log
+*.bak
+*.old
+*.save
+*.orig
